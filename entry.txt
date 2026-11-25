@@ -1,0 +1,1 @@
+v2.4.1: fixed a bug where the brain replayed your most embarrassing moment at 3 a.m. Added a 'move on' button. The button is decorative.
